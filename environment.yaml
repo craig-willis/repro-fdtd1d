@@ -1,5 +1,4 @@
-name: repro-fdtd1d
- channels:
+channels:
   - conda-forge
 dependencies:
   - numpy
