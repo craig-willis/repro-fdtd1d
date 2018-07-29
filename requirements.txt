@@ -1,4 +1,4 @@
 matplotlib
 pandas
-numpy --no-binary
-scipy --no-binary
+--no-binary numpy 
+--no-binary scipy
