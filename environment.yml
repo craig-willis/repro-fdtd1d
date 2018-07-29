@@ -1,0 +1,7 @@
+name: repo-fdtd1d
+dependencies:
+  - build-essential
+  - curl
+  - git
+  - python-matplotlib
+  - vim
