@@ -14,7 +14,7 @@ RUN apt-get -qq update && \
     apt-get -qq autoremove && \
     rm -rf /var/lib/apt/lists/*
 
-USER $NB_USER
+USER $NB_UID
 ENV USER $NB_USER
 COPY fdtd* /home/jovyan/work/
 COPY img /home/jovyan/work/img/
