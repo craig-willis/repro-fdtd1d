@@ -1,4 +1,6 @@
 name: repro-fdtd1d
+ channels:
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
