@@ -1,0 +1,5 @@
+name: repro-fdtd1d
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
